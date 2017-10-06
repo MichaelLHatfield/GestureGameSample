@@ -3,7 +3,8 @@ Sample Application for Android Gesture
 
 This application is a demo for [Android Gestures](https://developer.android.com/training/gestures/detector.html).
 
-![](https://i.gyazo.com/ae4c647e5e4262aa22224436158cbf1f.png)
+
+<img src="https://i.gyazo.com/ae4c647e5e4262aa22224436158cbf1f.png" width="200">
 
 ## How to play
 - Firstly, click 'Start' button.
