@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="io.github.iwag.gestureapp.StartActivity">
+    tools:context="io.github.iwag.gestureapp.StartActivity"
+    android:id="@+id/start_view">
 
     <Button
         android:layout_width="wrap_content"
@@ -13,5 +14,15 @@
         android:layout_centerHorizontal="true"
         android:text="Start"
         android:onClick="doStart"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:id="@+id/textView2"
+        android:textSize="35dp"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true" />
+
 
 </RelativeLayout>
